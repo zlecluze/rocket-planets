@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "rp:rocket",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "rocket"
+      },
+      "minecraft:display_name": {
+        "value": "item.rp:rocket.name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:durability": {
+        "max_durability": 64
+      },
+      "minecraft:hand_equipped": true,
+      "minecraft:hover_text_color": "aqua"
+    }
+  }
+}

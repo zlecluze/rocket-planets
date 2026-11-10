@@ -1,0 +1,5 @@
+pack.name=Rocket Planets RP
+pack.description=Resource pack: rocket and planet textures.
+item.rp:rocket.name=Rocket
+tile.rp:moon_rock.name=Moon Rock
+tile.rp:mars_rock.name=Mars Rock

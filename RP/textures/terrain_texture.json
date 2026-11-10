@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "rocket_planets",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "moon_rock": {
+      "textures": "textures/blocks/moon_rock"
+    },
+    "mars_rock": {
+      "textures": "textures/blocks/mars_rock"
+    }
+  }
+}
